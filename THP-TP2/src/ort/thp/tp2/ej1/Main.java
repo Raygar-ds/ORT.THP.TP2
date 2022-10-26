@@ -3,6 +3,7 @@ package ort.thp.tp2.ej1;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class Main {
 
 	static int num1, num2;

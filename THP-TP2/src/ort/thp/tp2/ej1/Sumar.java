@@ -2,6 +2,7 @@ package ort.thp.tp2.ej1;
 
 public class Sumar {
 	
+	
 	private int num1;
 	private int num2;
 	private int suma;

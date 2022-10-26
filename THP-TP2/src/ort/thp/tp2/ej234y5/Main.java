@@ -2,6 +2,7 @@ package ort.thp.tp2.ej234y5;
 
 public class Main {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Domicilio dom = new Domicilio("Salguero", "2677", "Buenos Aires"); //Se crea el domicilio

@@ -1,5 +1,6 @@
 package ort.thp.tp2.ej234y5;
 
+
 public class Persona {
 	private String nombre;
 	private String apellido;

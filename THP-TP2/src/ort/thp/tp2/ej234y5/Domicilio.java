@@ -1,6 +1,7 @@
 package ort.thp.tp2.ej234y5;
 
 public class Domicilio {
+	
 
 	private String calle;
 	private String numero;
