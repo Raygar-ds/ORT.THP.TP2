@@ -1,7 +1,7 @@
 package ort.thp.tp2.ej6;
 
 public class Dado {
-	private int dado = (int)(Math.random()*6);
+	private int dado = (int)(Math.random()*6)+ 1;
 	
 	public Dado() {
 		
