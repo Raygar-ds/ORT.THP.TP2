@@ -7,9 +7,7 @@ public class Main {
 		
 		Turnera turno = new Turnera();
 		System.out.println(turno);
-		for (int i = 0; i < 10; i++) {
-			turno.otorgarProximoNumero();
-		}
+		turno.otorgarProximoNumero();
 		System.out.println("El ultimo turno es: " + turno.obtenerUltimoNumeroOtorgado());
 		turno.resetearContador();
 
